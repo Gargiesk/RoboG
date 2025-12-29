@@ -26,4 +26,8 @@
 > Current status: **In Progress**
 > Standing, pivoting, early steps happening, balance tuning ongoing.
 
-## 🚀 Code Directory
+## 📍 Status
+🚧 In Progress  
+🦾 Hardware assembled  
+🪜 Step cycle logic drafting  
+🎯 Goal: standing & first stable steps by March 2026
