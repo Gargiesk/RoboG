@@ -31,3 +31,4 @@
 🦾 Hardware assembled  
 🪜 Step cycle logic drafting  
 🎯 Goal: standing & first stable steps by March 2026
+I am ready to step in robotics
